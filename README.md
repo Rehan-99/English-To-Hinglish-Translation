@@ -16,3 +16,7 @@ Before running the code, make sure you have the following:
     Install the required Python libraries, including openai. You can install openai using pip:
 
     !! pip install openai
+### Disclaimer
+
+    Please note that the quality of translations may vary, and it's essential to review and verify the output.
+    I have crossed check the Output with the online Google Translation tool.
